@@ -1,0 +1,283 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 12 Apr 2026 13:01:24 at https://hgmedia.com.vn https://hgmedia.com.vn/sitemap_index.xml +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.hgmedia.com.vn/* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp
+(winhttrack -qir10%e0C2%Ps0u1%B%s%uN0%I0p3DaK0c3H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hgmedia.com.vn https://hgmedia.com.vn/sitemap_index.xml -O1 "D:\hnl\hnlmedia" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.hgmedia.com.vn/* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:01:25	Warning: 	Moved Permanently for https://hgmedia.com.vn/
+13:01:25	Warning: 	File has moved from https://hgmedia.com.vn/ to https://hgmedia.com.vn/en/
+13:01:56	Warning: 	warning: file size on disk (61792) does not have the expected size (61860))
+13:01:57	Warning: 	warning: file size on disk (716) does not have the expected size (715))
+13:04:25	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/pages/9 (from https://hgmedia.com.vn/en/)
+13:08:51	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/pages/9 (from https://hgmedia.com.vn/vi/)
+13:09:11	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/pages/1972 (from https://hgmedia.com.vn/en/ve-chung-toi/)
+13:09:11	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=1972
+13:09:11	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=1972 to https://hgmedia.com.vn/en/ve-chung-toi/
+13:09:11	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/pages/2118 (from https://hgmedia.com.vn/en/du-an/)
+13:09:11	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=2118
+13:09:11	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=2118 to https://hgmedia.com.vn/en/du-an/
+13:09:11	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/categories/1 (from https://hgmedia.com.vn/en/chuyen-muc/blog/)
+13:09:24	Warning: 	Found for https://hgmedia.com.vn/danh-muc-tuyen-dung/tat-ca-cac-phong/page/2/
+13:09:24	Warning: 	File has moved from https://hgmedia.com.vn/danh-muc-tuyen-dung/tat-ca-cac-phong/page/2/ to https://hgmedia.com.vn/en/danh-muc-tuyen-dung/tat-ca-cac-phong/page/2/
+13:09:24	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/danh_muc_tuyen_dung/7 (from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/tat-ca-cac-phong/)
+13:09:27	Error: 	"Not Found" (404) at link https://hgmedia.com.vn/en/danh-muc-tuyen-dung/phong-tuyen-dung/phong-doi-ngoai/ (from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/tat-ca-cac-phong/)
+13:10:35	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/posts/1835 (from https://hgmedia.com.vn/en/he-thong-youtube-channel-ve-am-nhac/)
+13:10:38	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=1835
+13:10:38	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=1835 to https://hgmedia.com.vn/en/he-thong-youtube-channel-ve-am-nhac/
+13:10:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/posts/1830 (from https://hgmedia.com.vn/en/he-thong-youtube-channel-ve-giai-tri/)
+13:10:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=1830
+13:10:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=1830 to https://hgmedia.com.vn/en/he-thong-youtube-channel-ve-giai-tri/
+13:10:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/posts/1833 (from https://hgmedia.com.vn/en/helios-records/)
+13:10:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=1833
+13:10:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=1833 to https://hgmedia.com.vn/en/helios-records/
+13:10:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/posts/1810 (from https://hgmedia.com.vn/en/deep-universe/)
+13:10:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=1810
+13:10:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=1810 to https://hgmedia.com.vn/en/deep-universe/
+13:10:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/pages/1972 (from https://hgmedia.com.vn/vi/ve-chung-toi/)
+13:10:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=1972
+13:10:43	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=1972 to https://hgmedia.com.vn/vi/ve-chung-toi/
+13:10:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/pages/2118 (from https://hgmedia.com.vn/vi/du-an/)
+13:10:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=2118
+13:10:43	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=2118 to https://hgmedia.com.vn/vi/du-an/
+13:10:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/categories/1 (from https://hgmedia.com.vn/vi/chuyen-muc/blog/)
+13:10:51	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/danh_muc_tuyen_dung/7 (from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/tat-ca-cac-phong/)
+13:10:54	Error: 	"Not Found" (404) at link https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/phong-tuyen-dung/phong-doi-ngoai/ (from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/tat-ca-cac-phong/)
+13:11:20	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/posts/1835 (from https://hgmedia.com.vn/vi/he-thong-youtube-channel-ve-am-nhac/)
+13:11:23	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=1835
+13:11:23	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=1835 to https://hgmedia.com.vn/vi/he-thong-youtube-channel-ve-am-nhac/
+13:11:26	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/posts/1830 (from https://hgmedia.com.vn/vi/he-thong-youtube-channel-ve-giai-tri/)
+13:11:26	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=1830
+13:11:26	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=1830 to https://hgmedia.com.vn/vi/he-thong-youtube-channel-ve-giai-tri/
+13:11:26	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/posts/1833 (from https://hgmedia.com.vn/vi/helios-records/)
+13:11:26	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=1833
+13:11:26	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=1833 to https://hgmedia.com.vn/vi/helios-records/
+13:11:26	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/posts/1810 (from https://hgmedia.com.vn/vi/deep-universe/)
+13:11:26	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=1810
+13:11:26	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=1810 to https://hgmedia.com.vn/vi/deep-universe/
+13:11:26	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/categories/6 (from https://hgmedia.com.vn/en/chuyen-muc/du-an/)
+13:11:26	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/categories/12 (from https://hgmedia.com.vn/en/chuyen-muc/blog/youtube/)
+13:11:26	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/categories/13 (from https://hgmedia.com.vn/en/chuyen-muc/blog/seo-youtube/)
+13:11:26	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/categories/15 (from https://hgmedia.com.vn/en/chuyen-muc/blog/content-creator/)
+13:11:26	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/posts/9359 (from https://hgmedia.com.vn/en/van-hanh-label/)
+13:11:26	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9359
+13:11:26	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9359 to https://hgmedia.com.vn/en/van-hanh-label/
+13:11:27	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/posts/2729 (from https://hgmedia.com.vn/en/seo-youtube-la-gi-cac-chien-luoc-seo-hieu-qua-nhat-hien-nay/)
+13:11:27	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=2729
+13:11:27	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=2729 to https://hgmedia.com.vn/en/seo-youtube-la-gi-cac-chien-luoc-seo-hieu-qua-nhat-hien-nay/
+13:11:27	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/posts/2472 (from https://hgmedia.com.vn/en/nghe-youtuber-xu-huong-kiem-tien-cua-gioi-tre/)
+13:11:27	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=2472
+13:11:27	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=2472 to https://hgmedia.com.vn/en/nghe-youtuber-xu-huong-kiem-tien-cua-gioi-tre/
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/youtuberkiemtienhangtidong3_xtxq.jpg (from https://hgmedia.com.vn/en/nghe-youtuber-xu-huong-kiem-tien-cua-gioi-tre/)
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/kiem-tien-voi-youtube.jpg (from https://hgmedia.com.vn/en/nghe-youtuber-xu-huong-kiem-tien-cua-gioi-tre/)
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/Screen-Shot-2018-09-28-at-12.00.34-PM-1080x675-3.jpg (from https://hgmedia.com.vn/en/nghe-youtuber-xu-huong-kiem-tien-cua-gioi-tre/)
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/moi-nam-kiem-28-ty-kenh-youtube-cua-tran-thanh-vua-dat-ky-luc-khung.jpg (from https://hgmedia.com.vn/en/nghe-youtuber-xu-huong-kiem-tien-cua-gioi-tre/)
+13:11:27	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/posts/2403 (from https://hgmedia.com.vn/en/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/)
+13:11:27	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=2403
+13:11:27	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=2403 to https://hgmedia.com.vn/en/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/du-ng-youtube-lau-nam-nhung-nhie-u-nguo-i-chua-bie-t-nhu-ng-die-u-na-y.jpg (from https://hgmedia.com.vn/en/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/)
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/word-image-878-1.jpg (from https://hgmedia.com.vn/en/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/)
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/thong-diep-cho-noi-dung-video-1.jpg (from https://hgmedia.com.vn/en/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/)
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/1569581613_705604_1569581916_noticia_normal-1.jpg (from https://hgmedia.com.vn/en/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/)
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/Screen-Shot-2018-09-28-at-12.00.34-PM-1080x675-2.jpg (from https://hgmedia.com.vn/en/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/)
+13:11:27	Error: 	"Not Found" (404) at link https://hgmedia.demo.servisense.agency/wp-content/uploads/2022/06/maxresdefault-1.jpg (from https://hgmedia.com.vn/en/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/)
+13:11:27	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/danh_muc_tuyen_dung/9 (from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/phong-tuyen-dung/phong-marketing/)
+13:11:40	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/danh_muc_tuyen_dung/10 (from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/phong-tuyen-dung/phong-nhan-su/)
+13:11:40	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/danh_muc_tuyen_dung/11 (from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/phong-tuyen-dung/phong-ban-khac/)
+13:11:42	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9583 (from https://hgmedia.com.vn/en/tuyen-dung/video-editor-ai-native/)
+13:11:42	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9583
+13:11:42	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9583 to https://hgmedia.com.vn/en/tuyen-dung/video-editor-ai-native/
+13:11:42	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9567 (from https://hgmedia.com.vn/en/tuyen-dung/9567-2/)
+13:11:42	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9567
+13:11:42	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9567 to https://hgmedia.com.vn/en/tuyen-dung/9567-2/
+13:11:42	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9549 (from https://hgmedia.com.vn/en/tuyen-dung/tro-ly-giam-doc/)
+13:11:42	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9549
+13:11:42	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9549 to https://hgmedia.com.vn/en/tuyen-dung/tro-ly-giam-doc/
+13:11:42	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9539 (from https://hgmedia.com.vn/en/tuyen-dung/quan-ly-san-xuat-nhac-2/)
+13:11:42	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9539
+13:11:42	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9539 to https://hgmedia.com.vn/en/tuyen-dung/quan-ly-san-xuat-nhac-2/
+13:11:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9537 (from https://hgmedia.com.vn/en/tuyen-dung/thuc-tap-sinh-nhan-su/)
+13:11:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9537
+13:11:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9537 to https://hgmedia.com.vn/en/tuyen-dung/thuc-tap-sinh-nhan-su/
+13:11:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9493 (from https://hgmedia.com.vn/en/tuyen-dung/tro-ly-du-an-phat-trien-label-nhac/)
+13:11:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9493
+13:11:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9493 to https://hgmedia.com.vn/en/tuyen-dung/tro-ly-du-an-phat-trien-label-nhac/
+13:11:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9466 (from https://hgmedia.com.vn/en/tuyen-dung/video-editor-su-dung-ae/)
+13:11:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9466
+13:11:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9466 to https://hgmedia.com.vn/en/tuyen-dung/video-editor-su-dung-ae/
+13:11:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9464 (from https://hgmedia.com.vn/en/tuyen-dung/social-marketing-executive-2/)
+13:11:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9464
+13:11:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9464 to https://hgmedia.com.vn/en/tuyen-dung/social-marketing-executive-2/
+13:11:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9403 (from https://hgmedia.com.vn/en/tuyen-dung/9403-2/)
+13:11:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9403
+13:11:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9403 to https://hgmedia.com.vn/en/tuyen-dung/9403-2/
+13:11:43	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9364 (from https://hgmedia.com.vn/en/tuyen-dung/van-hanh-label-3/)
+13:11:43	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9364
+13:11:43	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9364 to https://hgmedia.com.vn/en/tuyen-dung/van-hanh-label-3/
+13:11:43	Warning: 	Found for https://hgmedia.com.vn/danh-muc-tuyen-dung/tat-ca-cac-phong/
+13:11:43	Warning: 	File has moved from https://hgmedia.com.vn/danh-muc-tuyen-dung/tat-ca-cac-phong/ to https://hgmedia.com.vn/en/danh-muc-tuyen-dung/tat-ca-cac-phong/
+13:11:43	Warning: 	Found for https://hgmedia.com.vn/danh-muc-tuyen-dung/tat-ca-cac-phong/page/3/
+13:11:43	Warning: 	File has moved from https://hgmedia.com.vn/danh-muc-tuyen-dung/tat-ca-cac-phong/page/3/ to https://hgmedia.com.vn/en/danh-muc-tuyen-dung/tat-ca-cac-phong/page/3/
+13:11:47	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/danh-muc-tuyen-dung/tat-ca-cac-phong/page/1/
+13:11:47	Warning: 	File has moved from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/tat-ca-cac-phong/page/1/ to https://hgmedia.com.vn/en/danh-muc-tuyen-dung/tat-ca-cac-phong/
+13:11:50	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/users/1 (from https://hgmedia.com.vn/en/author/admin/)
+13:11:50	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/categories/6 (from https://hgmedia.com.vn/vi/chuyen-muc/du-an/)
+13:11:50	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/categories/12 (from https://hgmedia.com.vn/vi/chuyen-muc/blog/youtube/)
+13:11:50	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/categories/13 (from https://hgmedia.com.vn/vi/chuyen-muc/blog/seo-youtube/)
+13:11:50	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/categories/15 (from https://hgmedia.com.vn/vi/chuyen-muc/blog/content-creator/)
+13:11:50	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/posts/9359 (from https://hgmedia.com.vn/vi/van-hanh-label/)
+13:11:50	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9359
+13:11:50	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9359 to https://hgmedia.com.vn/vi/van-hanh-label/
+13:11:51	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/posts/2729 (from https://hgmedia.com.vn/vi/seo-youtube-la-gi-cac-chien-luoc-seo-hieu-qua-nhat-hien-nay/)
+13:11:51	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=2729
+13:11:51	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=2729 to https://hgmedia.com.vn/vi/seo-youtube-la-gi-cac-chien-luoc-seo-hieu-qua-nhat-hien-nay/
+13:11:51	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/posts/2472 (from https://hgmedia.com.vn/vi/nghe-youtuber-xu-huong-kiem-tien-cua-gioi-tre/)
+13:11:51	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=2472
+13:11:51	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=2472 to https://hgmedia.com.vn/vi/nghe-youtuber-xu-huong-kiem-tien-cua-gioi-tre/
+13:11:51	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/posts/2403 (from https://hgmedia.com.vn/vi/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/)
+13:11:51	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=2403
+13:11:51	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=2403 to https://hgmedia.com.vn/vi/tong-hop-a-z-cach-sang-tao-noi-dung-tren-youtube-de-co-thu-nhap-khung/
+13:11:51	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/danh_muc_tuyen_dung/9 (from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/phong-tuyen-dung/phong-marketing/)
+13:12:04	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/danh_muc_tuyen_dung/10 (from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/phong-tuyen-dung/phong-nhan-su/)
+13:12:04	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/danh_muc_tuyen_dung/11 (from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/phong-tuyen-dung/phong-ban-khac/)
+13:12:05	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9583 (from https://hgmedia.com.vn/vi/tuyen-dung/video-editor-ai-native/)
+13:12:05	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9583
+13:12:05	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9583 to https://hgmedia.com.vn/vi/tuyen-dung/video-editor-ai-native/
+13:12:06	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9567 (from https://hgmedia.com.vn/vi/tuyen-dung/9567-2/)
+13:12:06	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9567
+13:12:06	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9567 to https://hgmedia.com.vn/vi/tuyen-dung/9567-2/
+13:12:06	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9549 (from https://hgmedia.com.vn/vi/tuyen-dung/tro-ly-giam-doc/)
+13:12:06	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9549
+13:12:06	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9549 to https://hgmedia.com.vn/vi/tuyen-dung/tro-ly-giam-doc/
+13:12:06	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9539 (from https://hgmedia.com.vn/vi/tuyen-dung/quan-ly-san-xuat-nhac-2/)
+13:12:06	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9539
+13:12:06	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9539 to https://hgmedia.com.vn/vi/tuyen-dung/quan-ly-san-xuat-nhac-2/
+13:12:07	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9537 (from https://hgmedia.com.vn/vi/tuyen-dung/thuc-tap-sinh-nhan-su/)
+13:12:07	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9537
+13:12:07	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9537 to https://hgmedia.com.vn/vi/tuyen-dung/thuc-tap-sinh-nhan-su/
+13:12:07	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9493 (from https://hgmedia.com.vn/vi/tuyen-dung/tro-ly-du-an-phat-trien-label-nhac/)
+13:12:07	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9493
+13:12:07	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9493 to https://hgmedia.com.vn/vi/tuyen-dung/tro-ly-du-an-phat-trien-label-nhac/
+13:12:07	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9466 (from https://hgmedia.com.vn/vi/tuyen-dung/video-editor-su-dung-ae/)
+13:12:07	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9466
+13:12:07	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9466 to https://hgmedia.com.vn/vi/tuyen-dung/video-editor-su-dung-ae/
+13:12:07	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9464 (from https://hgmedia.com.vn/vi/tuyen-dung/social-marketing-executive-2/)
+13:12:07	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9464
+13:12:07	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9464 to https://hgmedia.com.vn/vi/tuyen-dung/social-marketing-executive-2/
+13:12:07	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9403 (from https://hgmedia.com.vn/vi/tuyen-dung/9403-2/)
+13:12:07	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9403
+13:12:07	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9403 to https://hgmedia.com.vn/vi/tuyen-dung/9403-2/
+13:12:07	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9364 (from https://hgmedia.com.vn/vi/tuyen-dung/van-hanh-label-3/)
+13:12:07	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9364
+13:12:07	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9364 to https://hgmedia.com.vn/vi/tuyen-dung/van-hanh-label-3/
+13:12:10	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/tat-ca-cac-phong/page/1/
+13:12:10	Warning: 	File has moved from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/tat-ca-cac-phong/page/1/ to https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/tat-ca-cac-phong/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/users/1 (from https://hgmedia.com.vn/vi/author/admin/)
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/users/2 (from https://hgmedia.com.vn/en/author/manager/)
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9308 (from https://hgmedia.com.vn/en/tuyen-dung/video-editor-an-tue/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9308
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9308 to https://hgmedia.com.vn/en/tuyen-dung/video-editor-an-tue/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9199 (from https://hgmedia.com.vn/en/tuyen-dung/truong-nhom-marketing-2/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9199
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9199 to https://hgmedia.com.vn/en/tuyen-dung/truong-nhom-marketing-2/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9196 (from https://hgmedia.com.vn/en/tuyen-dung/marketing-manager/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9196
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9196 to https://hgmedia.com.vn/en/tuyen-dung/marketing-manager/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9092 (from https://hgmedia.com.vn/en/tuyen-dung/truong-nhom-seo-youtube-2/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9092
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9092 to https://hgmedia.com.vn/en/tuyen-dung/truong-nhom-seo-youtube-2/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/8027 (from https://hgmedia.com.vn/en/tuyen-dung/video-editor-2/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=8027
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=8027 to https://hgmedia.com.vn/en/tuyen-dung/video-editor-2/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/7956 (from https://hgmedia.com.vn/en/tuyen-dung/nhan-vien-seo-youtube/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=7956
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=7956 to https://hgmedia.com.vn/en/tuyen-dung/nhan-vien-seo-youtube/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/7674 (from https://hgmedia.com.vn/en/tuyen-dung/digital-marketing-5/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=7674
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=7674 to https://hgmedia.com.vn/en/tuyen-dung/digital-marketing-5/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/7462 (from https://hgmedia.com.vn/en/tuyen-dung/chuyen-vien-video-editor-travel-mkt1/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=7462
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=7462 to https://hgmedia.com.vn/en/tuyen-dung/chuyen-vien-video-editor-travel-mkt1/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/7284 (from https://hgmedia.com.vn/en/tuyen-dung/hau-ky-am-thanh/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=7284
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=7284 to https://hgmedia.com.vn/en/tuyen-dung/hau-ky-am-thanh/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/5032 (from https://hgmedia.com.vn/en/tuyen-dung/motion-effect-designer-phong-mkt1/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=5032
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=5032 to https://hgmedia.com.vn/en/tuyen-dung/motion-effect-designer-phong-mkt1/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9218 (from https://hgmedia.com.vn/en/tuyen-dung/executive-assistant-to-ceo/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9218
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9218 to https://hgmedia.com.vn/en/tuyen-dung/executive-assistant-to-ceo/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/danh_muc_tuyen_dung/24 (from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/phong-label-marketing/)
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/danh_muc_tuyen_dung/25 (from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/phong-san-xuat-nhac/)
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9275 (from https://hgmedia.com.vn/en/tuyen-dung/nhan-vien-phat-trien-label-nhac/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9275
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9275 to https://hgmedia.com.vn/en/tuyen-dung/nhan-vien-phat-trien-label-nhac/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/9227 (from https://hgmedia.com.vn/en/tuyen-dung/creative-content/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=9227
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=9227 to https://hgmedia.com.vn/en/tuyen-dung/creative-content/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/8142 (from https://hgmedia.com.vn/en/tuyen-dung/business-development-officer-thu-mua-2/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=8142
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=8142 to https://hgmedia.com.vn/en/tuyen-dung/business-development-officer-thu-mua-2/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/7312 (from https://hgmedia.com.vn/en/tuyen-dung/digital-marketing-youtube/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=7312
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=7312 to https://hgmedia.com.vn/en/tuyen-dung/digital-marketing-youtube/
+13:12:13	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/tuyen_dung/5901 (from https://hgmedia.com.vn/en/tuyen-dung/ke-toan-thue/)
+13:12:13	Warning: 	Moved Permanently for https://hgmedia.com.vn/en/?p=5901
+13:12:13	Warning: 	File has moved from https://hgmedia.com.vn/en/?p=5901 to https://hgmedia.com.vn/en/tuyen-dung/ke-toan-thue/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/users/2 (from https://hgmedia.com.vn/vi/author/manager/)
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9308 (from https://hgmedia.com.vn/vi/tuyen-dung/video-editor-an-tue/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9308
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9308 to https://hgmedia.com.vn/vi/tuyen-dung/video-editor-an-tue/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9199 (from https://hgmedia.com.vn/vi/tuyen-dung/truong-nhom-marketing-2/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9199
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9199 to https://hgmedia.com.vn/vi/tuyen-dung/truong-nhom-marketing-2/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9196 (from https://hgmedia.com.vn/vi/tuyen-dung/marketing-manager/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9196
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9196 to https://hgmedia.com.vn/vi/tuyen-dung/marketing-manager/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9092 (from https://hgmedia.com.vn/vi/tuyen-dung/truong-nhom-seo-youtube-2/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9092
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9092 to https://hgmedia.com.vn/vi/tuyen-dung/truong-nhom-seo-youtube-2/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/8027 (from https://hgmedia.com.vn/vi/tuyen-dung/video-editor-2/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=8027
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=8027 to https://hgmedia.com.vn/vi/tuyen-dung/video-editor-2/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/7956 (from https://hgmedia.com.vn/vi/tuyen-dung/nhan-vien-seo-youtube/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=7956
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=7956 to https://hgmedia.com.vn/vi/tuyen-dung/nhan-vien-seo-youtube/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/7674 (from https://hgmedia.com.vn/vi/tuyen-dung/digital-marketing-5/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=7674
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=7674 to https://hgmedia.com.vn/vi/tuyen-dung/digital-marketing-5/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/7462 (from https://hgmedia.com.vn/vi/tuyen-dung/chuyen-vien-video-editor-travel-mkt1/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=7462
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=7462 to https://hgmedia.com.vn/vi/tuyen-dung/chuyen-vien-video-editor-travel-mkt1/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/7284 (from https://hgmedia.com.vn/vi/tuyen-dung/hau-ky-am-thanh/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=7284
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=7284 to https://hgmedia.com.vn/vi/tuyen-dung/hau-ky-am-thanh/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/5032 (from https://hgmedia.com.vn/vi/tuyen-dung/motion-effect-designer-phong-mkt1/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=5032
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=5032 to https://hgmedia.com.vn/vi/tuyen-dung/motion-effect-designer-phong-mkt1/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9218 (from https://hgmedia.com.vn/vi/tuyen-dung/executive-assistant-to-ceo/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9218
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9218 to https://hgmedia.com.vn/vi/tuyen-dung/executive-assistant-to-ceo/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/danh_muc_tuyen_dung/24 (from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/phong-label-marketing/)
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/danh_muc_tuyen_dung/25 (from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/phong-san-xuat-nhac/)
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9275 (from https://hgmedia.com.vn/vi/tuyen-dung/nhan-vien-phat-trien-label-nhac/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9275
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9275 to https://hgmedia.com.vn/vi/tuyen-dung/nhan-vien-phat-trien-label-nhac/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/9227 (from https://hgmedia.com.vn/vi/tuyen-dung/creative-content/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=9227
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=9227 to https://hgmedia.com.vn/vi/tuyen-dung/creative-content/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/8142 (from https://hgmedia.com.vn/vi/tuyen-dung/business-development-officer-thu-mua-2/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=8142
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=8142 to https://hgmedia.com.vn/vi/tuyen-dung/business-development-officer-thu-mua-2/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/7312 (from https://hgmedia.com.vn/vi/tuyen-dung/digital-marketing-youtube/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=7312
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=7312 to https://hgmedia.com.vn/vi/tuyen-dung/digital-marketing-youtube/
+13:12:14	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/tuyen_dung/5901 (from https://hgmedia.com.vn/vi/tuyen-dung/ke-toan-thue/)
+13:12:14	Warning: 	Moved Permanently for https://hgmedia.com.vn/vi/?p=5901
+13:12:14	Warning: 	File has moved from https://hgmedia.com.vn/vi/?p=5901 to https://hgmedia.com.vn/vi/tuyen-dung/ke-toan-thue/
+13:12:15	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/en/wp-json/wp/v2/danh_muc_tuyen_dung/23 (from https://hgmedia.com.vn/en/danh-muc-tuyen-dung/phong-phap-che/)
+13:12:15	Error: 	"Unauthorized" (401) at link https://hgmedia.com.vn/vi/wp-json/wp/v2/danh_muc_tuyen_dung/23 (from https://hgmedia.com.vn/vi/danh-muc-tuyen-dung/phong-phap-che/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 51 seconds : 592 links scanned, 400 files written (20223003 bytes overall), 342 files updated [7636432 bytes received at 11730 bytes/sec], 13224174 bytes transferred using HTTP compression in 427 files, ratio 23%, 12.0 requests per connection
+(114 errors, 158 warnings, 0 messages)

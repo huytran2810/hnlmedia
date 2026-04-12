@@ -1,0 +1,16 @@
+{
+    "version": "1.0",
+    "provider_name": "HNL Media",
+    "provider_url": "https:\/\/hgmedia.com.vn\/vi",
+    "author_name": "HNL Media",
+    "author_url": "https:\/\/hgmedia.com.vn\/vi\/author\/manager\/",
+    "title": "Tr\u1ee3 l\u00fd D\u1ef1 \u00e1n (Ph\u00e1t tri\u1ec3n Label nh\u1ea1c) - HNL Media",
+    "type": "rich",
+    "width": 600,
+    "height": 338,
+    "html": "<blockquote class=\"wp-embedded-content\" data-secret=\"7kBZTGCXKP\"><a href=\"https:\/\/hgmedia.com.vn\/vi\/tuyen-dung\/tro-ly-du-an-phat-trien-label-nhac\/\">Tr\u1ee3 l\u00fd D\u1ef1 \u00e1n (Ph\u00e1t tri\u1ec3n Label nh\u1ea1c)<\/a><\/blockquote><iframe sandbox=\"allow-scripts\" security=\"restricted\" src=\"https:\/\/hgmedia.com.vn\/vi\/tuyen-dung\/tro-ly-du-an-phat-trien-label-nhac\/embed\/#?secret=7kBZTGCXKP\" width=\"600\" height=\"338\" title=\"&#8220;Tr\u1ee3 l\u00fd D\u1ef1 \u00e1n (Ph\u00e1t tri\u1ec3n Label nh\u1ea1c)&#8221; &#8212; HNL Media\" data-secret=\"7kBZTGCXKP\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" class=\"wp-embedded-content\"><\/iframe><script type=\"text\/javascript\">\n\/* <![CDATA[ *\/\n\/*! This file is auto-generated *\/\n!function(d,l){\"use strict\";l.querySelector&&d.addEventListener&&\"undefined\"!=typeof URL&&(d.wp=d.wp||{},d.wp.receiveEmbedMessage||(d.wp.receiveEmbedMessage=function(e){var t=e.data;if((t||t.secret||t.message||t.value)&&!\/[^a-zA-Z0-9]\/.test(t.secret)){for(var s,r,n,a=l.querySelectorAll('iframe[data-secret=\"'+t.secret+'\"]'),o=l.querySelectorAll('blockquote[data-secret=\"'+t.secret+'\"]'),c=new RegExp(\"^https?:$\",\"i\"),i=0;i<o.length;i++)o[i].style.display=\"none\";for(i=0;i<a.length;i++)s=a[i],e.source===s.contentWindow&&(s.removeAttribute(\"style\"),\"height\"===t.message?(1e3<(r=parseInt(t.value,10))?r=1e3:~~r<200&&(r=200),s.height=r):\"link\"===t.message&&(r=new URL(s.getAttribute(\"src\")),n=new URL(t.value),c.test(n.protocol))&&n.host===r.host&&l.activeElement===s&&(d.top.location.href=t.value))}},d.addEventListener(\"message\",d.wp.receiveEmbedMessage,!1),l.addEventListener(\"DOMContentLoaded\",function(){for(var e,t,s=l.querySelectorAll(\"iframe.wp-embedded-content\"),r=0;r<s.length;r++)(t=(e=s[r]).getAttribute(\"data-secret\"))||(t=Math.random().toString(36).substring(2,12),e.src+=\"#?secret=\"+t,e.setAttribute(\"data-secret\",t)),e.contentWindow.postMessage({message:\"ready\",secret:t},\"*\")},!1)))}(window,document);\n\/\/# sourceURL=https:\/\/hgmedia.com.vn\/wp-includes\/js\/wp-embed.min.js\n\/* ]]> *\/\n<\/script>",
+    "thumbnail_url": "https:\/\/hgmedia.com.vn\/wp-content\/uploads\/2026\/03\/HG_ENTERTAINMENT_LOGO_01.png",
+    "thumbnail_width": 2401,
+    "thumbnail_height": 1401,
+    "description": "NHI\u1ec6M V\u1ee4: 1. Tri\u1ec3n khai d\u1ef1 \u00e1n &amp; v\u1eadn h\u00e0nh H\u1ed7 tr\u1ee3 qu\u1ea3n l\u00fd\/lead trong vi\u1ec7c tri\u1ec3n khai k\u1ebf ho\u1ea1ch c\u00e1c d\u1ef1 \u00e1n \u00e2m nh\u1ea1c tr\u1ecdng \u0111i\u1ec3m. Theo d\u00f5i ti\u1ebfn \u0111\u1ed9, ph\u1ed1i h\u1ee3p v\u1edbi c\u00e1c b\u1ed9 ph\u1eadn \u0111\u1ec3 \u0111\u1ea3m b\u1ea3o k\u1ebf ho\u1ea1ch \u0111\u01b0\u1ee3c th\u1ef1c thi \u0111\u00fang timeline. T\u1ed5ng h\u1ee3p d\u1eef li\u1ec7u d\u1ef1 \u00e1n, c\u1eadp nh\u1eadt..."
+}
